@@ -2,7 +2,7 @@
 
 Настройка окружения
 
-1)Нужно зайти в git bash и указать путь для той папки где у вас лежат проэкты создаться папка <b>site-developer</b>, после копируем вот этот код:<strong> git clone https://github.com/AlekseiDeveloper/site-developer.git </strong> или скачать архив.
+1)Нужно зайти в git bash и указать путь для той папки где у вас лежат проэкты, после копируем вот этот код:<strong> git clone https://github.com/AlekseiDeveloper/site-developer.git </strong> или скачать архив, после установки будет создаться папка <b>site-developer</b>.
 
 2)После как проэкт склонировался вам понадобяться следующие команды.
 
